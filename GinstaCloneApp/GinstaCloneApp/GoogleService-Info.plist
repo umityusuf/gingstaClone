@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>236025359902-gcpg7n92h1ugdn7bvqeetla2h79fu29j.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.236025359902-gcpg7n92h1ugdn7bvqeetla2h79fu29j</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDyC8ffvRKcyBBvHLbivZlVBnXI_0QZVys</string>
+	<key>GCM_SENDER_ID</key>
+	<string>236025359902</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.umityusuferdem.GinstaCloneApp</string>
+	<key>PROJECT_ID</key>
+	<string>ginstaclone</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ginstaclone.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:236025359902:ios:0295b6126a5ddefc1cc80f</string>
+</dict>
+</plist>
